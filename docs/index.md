@@ -4,9 +4,12 @@ Welcome to my public documentation for the Microsoft AZ-104 certification journe
 
 ## 📚 Modules
 
-- [Module 01: Resource Groups & Subscriptions](../module01-resource-groups.md)
-- [Module 02: Virtual Machines](#)
-- [Module 03: Storage Accounts](#)
+- [Module 01: Prerequisites For Azure administrators](https://learn.microsoft.com/en-gb/training/modules/create-azure-resource-manager-template-vs-code/7-summary#completion)
+- [Module 02: Manage Identities and Governanace in Azure](#)
+- [Module 03: Implement and manage storage in Azure](#)
+- [Module 03: Deploy and manage Azure compute resources](#)
+- [Module 03: Configure and manage virtual networks for azure administrator](#)
+- [Module 03: Monitor and backup Azure resources](#)
 
 
 ## 🧠 Goals
