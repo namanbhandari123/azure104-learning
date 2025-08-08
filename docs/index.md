@@ -4,12 +4,13 @@ Welcome to my public documentation for the Microsoft AZ-104 certification journe
 
 ## 📚 Modules
 
-- [Module 01: Prerequisites For Azure administrators](https://learn.microsoft.com/en-gb/training/modules/create-azure-resource-manager-template-vs-code/7-summary#completion)
-- [Module 02: Manage Identities and Governanace in Azure](#)
-- [Module 03: Implement and manage storage in Azure](#)
-- [Module 03: Deploy and manage Azure compute resources](#)
-- [Module 03: Configure and manage virtual networks for azure administrator](#)
-- [Module 03: Monitor and backup Azure resources](#)
+- [Module 01: Deploy Azure infrastructure by using JSON ARM templates](https://learn.microsoft.com/api/achievements/share/en-gb/NamanBhandari-3233/NVCKZN6F?sharingId=F74D622E613BE003)
+- [Module 02: Prerequisites for azure administrators ](https://learn.microsoft.com/api/achievements/share/en-gb/NamanBhandari-3233/W2647W6N?sharingId=F74D622E613BE003)
+- [Module 03: Manage Identities and Governanace in Azure](#)
+- [Module 04: Implement and manage storage in Azure](#)
+- [Module 05: Deploy and manage Azure compute resources](#)
+- [Module 06: Configure and manage virtual networks for azure administrator](#)
+- [Module 07: Monitor and backup Azure resources](#)
 
 
 ## 🧠 Goals
