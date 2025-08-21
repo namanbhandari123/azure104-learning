@@ -25,9 +25,24 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Module 20: Azure Policy initiatives](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/4G27D49K?sharingId=F74D622E613BE003)
 - [Module 21: Secure your Azure resources with Azure RBAC](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/3ALSZAKH?sharingId=F74D622E613BE003)
 - [Module 22: Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/JUEMY9WT?sharingId=F74D622E613BE003)
+- [Module 23: Configure Azure virtual networks](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/2DXAE25V?sharingId=F74D622E613BE003)
 
-## Mini Project
+## Projects accomplished while learning
 - Created a 3-Tier Application using Azure Virtual Machine, Load balancers, and SQL Database in Azure.
+- Designed and deployed a secure hub-and-spoke network topology in Azure to support the migration of a web-based application. This foundational infrastructure  enables segmented workloads, centralized security, and scalable connectivity.
+    [ On-Premises ]
+        |
+        | (VPN Gateway / ExpressRoute)
+        |
+    [ hub-vnet ]
+    └── firewall-subnet
+        |
+        └── VNet Peering
+                |
+            [ app-vnet ]
+            ├── frontend-subnet (Web)
+            └── backend-subnet (DB)
+
 
 ## 🧠 Goals
 
