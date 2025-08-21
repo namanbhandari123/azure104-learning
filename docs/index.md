@@ -29,7 +29,7 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 
 ## Projects accomplished while learning
 - Created a 3-Tier Application using Azure Virtual Machine, Load balancers, and SQL Database in Azure.
-- Designed and deployed a secure hub-and-spoke network topology in Azure to support the migration of a web-based application. This foundational infrastructure  enables segmented workloads, centralized security, and scalable connectivity.
+- ![Azure Hub-and-Spoke Network Architecture](../diagrams/hub-spoke-network.png)
     [ On-Premises ]
         |
         | (VPN Gateway / ExpressRoute)
