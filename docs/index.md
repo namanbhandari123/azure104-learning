@@ -28,8 +28,8 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Module 23: Configure Azure virtual networks](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/2DXAE25V?sharingId=F74D622E613BE003)
 
 ## Projects accomplished while learning
-- ![3-Tier Azure Application Architecture](../diagrams/3-tier-azure-app.png)
-- ![Azure Hub-and-Spoke Network Architecture](../diagrams/hub-spoke-network.png)
+- ![3-Tier Azure Application Architecture](/diagrams/3tierapp.png)
+- ![Azure Hub-and-Spoke Network Architecture](/diagrams/hub-spoke-network.png)
 
 ## 🧠 Goals
 
