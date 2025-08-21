@@ -28,21 +28,8 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Module 23: Configure Azure virtual networks](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/2DXAE25V?sharingId=F74D622E613BE003)
 
 ## Projects accomplished while learning
-- Created a 3-Tier Application using Azure Virtual Machine, Load balancers, and SQL Database in Azure.
+- ![3-Tier Azure Application Architecture](../diagrams/3-tier-azure-app.png)
 - ![Azure Hub-and-Spoke Network Architecture](../diagrams/hub-spoke-network.png)
-    [ On-Premises ]
-        |
-        | (VPN Gateway / ExpressRoute)
-        |
-    [ hub-vnet ]
-    └── firewall-subnet
-        |
-        └── VNet Peering
-                |
-            [ app-vnet ]
-            ├── frontend-subnet (Web)
-            └── backend-subnet (DB)
-
 
 ## 🧠 Goals
 
