@@ -1,0 +1,61 @@
+{
+  "properties": {
+    "displayName": "Deny unencrypted storage accounts",
+    "policyType": "Custom",
+    "mode": "All",
+    "description": "Deny unencrypted storage accounts",
+    "metadata": {
+      "category": "Storage",
+      "createdBy": "143f67ad-25f8-4f54-8435-5a684bf14689",
+      "createdOn": "2025-08-24T22:23:54.6224394Z",
+      "updatedBy": null,
+      "updatedOn": null
+    },
+    "version": "1.0.0",
+    "parameters": {
+      "effectType": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      }
+    },
+    "policyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Storage/storageAccounts"
+          },
+          {
+            "field": "Microsoft.Storage/storageAccounts/supportsHttpsTrafficOnly",
+            "notEquals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effectType')]"
+      }
+    },
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "id": "/subscriptions/061a8e6e-08b1-4f44-9dc6-16b3ca891731/providers/Microsoft.Authorization/policyDefinitions/232f0ad2-8cc4-4443-b760-19b1395bb898",
+  "type": "Microsoft.Authorization/policyDefinitions",
+  "name": "232f0ad2-8cc4-4443-b760-19b1395bb898",
+  "systemData": {
+    "createdBy": "NamanBhandari@newjika.onmicrosoft.com",
+    "createdByType": "User",
+    "createdAt": "2025-08-24T22:23:54.6064134Z",
+    "lastModifiedBy": "NamanBhandari@newjika.onmicrosoft.com",
+    "lastModifiedByType": "User",
+    "lastModifiedAt": "2025-08-24T22:23:54.6064134Z"
+  }
+}
