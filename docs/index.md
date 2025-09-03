@@ -27,9 +27,12 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Module 22: Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/JUEMY9WT?sharingId=F74D622E613BE003)
 - [Module 23: Configure Azure virtual networks](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/2DXAE25V?sharingId=F74D622E613BE003)
 
-## Projects accomplished while learning
+## Projects and Hands on Lab
 - ![3-Tier Azure Application Architecture](/diagrams/3tierapp.png)
 - ![Azure Hub-and-Spoke Network Architecture](/diagrams/hub-spoke-network.png)
+- ![Manage Microsoft Entra ID identities](/diagrams/az104-lab01-architecture.png)
+- ![Manage Subscription and RBAC](/diagrams/az104-lab02a-architecture.png)
+- ![Manage Governance via Azure Policy](/diagrams/az104-lab02b-architecture.png)
 
 ## 🧠 Goals
 
