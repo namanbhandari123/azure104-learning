@@ -28,11 +28,11 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Module 23: Configure Azure virtual networks](https://learn.microsoft.com/api/achievements/share/en-us/NamanBhandari-3233/2DXAE25V?sharingId=F74D622E613BE003)
 
 ## Projects and Hands on Lab
-- ![3-Tier Azure Application Architecture](/diagrams/3tierapp.png)
-- ![Azure Hub-and-Spoke Network Architecture](/diagrams/hub-spoke-network.png)
-- ![Manage Microsoft Entra ID identities](/diagrams/az104-lab01-architecture.png)
-- ![Manage Subscription and RBAC](/diagrams/az104-lab02a-architecture.png)
-- ![Manage Governance via Azure Policy](/diagrams/az104-lab02b-architecture.png)
+- [3-Tier Azure Application Architecture](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/3tierapp.png)
+- [Azure Hub-and-Spoke Network Architecture](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/hub-spoke-network.png)
+- [Manage Microsoft Entra ID identities](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab01-architecture.png)
+- [Manage Subscription and RBAC](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02a-architecture.png)
+- [Manage Governance via Azure Policy](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02b-architecture.png)
 
 ## 🧠 Goals
 
