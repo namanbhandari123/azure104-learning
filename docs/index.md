@@ -33,6 +33,8 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Manage Microsoft Entra ID identities](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab01-architecture.png)
 - [Manage Subscription and RBAC](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02a-architecture.png)
 - [Manage Governance via Azure Policy](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02b-architecture.png)
+- [Manage Virtual Machines](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab08-vm-architecture.png)
+- [Azure VMSS Practical Lab(RDP, Bastion, scaling, Webserver, Disk mount, VM, Vnet)](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/ManageRDPandSSH.png)
 
 ## 🧠 Goals
 

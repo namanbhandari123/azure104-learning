@@ -1,4 +1,4 @@
-elcome to my learning journal for the **Microsoft Azure Administrator (AZ-104)** certification. This repo documents my hands-on labs, PowerShell scripts, notes, and key takeaways as I prepare for the exam.
+Welcome to my learning journal for the **Microsoft Azure Administrator (AZ-104)** certification. This repo documents my hands-on labs, PowerShell scripts, notes, and key takeaways as I prepare for the exam.
 
 ## 🎯 Goals
 - Master core Azure services and administration
