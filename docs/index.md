@@ -30,11 +30,12 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 ## Projects and Hands on Lab
 - [3-Tier Azure Application Architecture](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/3tierapp.png)
 - [Azure Hub-and-Spoke Network Architecture](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/hub-spoke-network.png)
-- [Manage Microsoft Entra ID identities](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab01-architecture.png)
-- [Manage Subscription and RBAC](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02a-architecture.png)
-- [Manage Governance via Azure Policy](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab02b-architecture.png)
-- [Manage Virtual Machines](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/az104-lab08-vm-architecture.png)
+- [Administer Identity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html)
+- [Governance and compliance](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html)
+- [Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
+- [Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
 - [Azure VMSS Practical Lab(RDP, Bastion, scaling, Webserver, Disk mount, VM, Vnet)](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/ManageRDPandSSH.png)
+- [Administer Azure Resources](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html#lab-introduction)
 
 ## 🧠 Goals
 
