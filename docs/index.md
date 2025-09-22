@@ -36,6 +36,13 @@ Hi I am Naman Bhandari, Welcome to my public documentation for the Microsoft AZ-
 - [Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
 - [Azure VMSS Practical Lab(RDP, Bastion, scaling, Webserver, Disk mount, VM, Vnet)](https://github.com/namanbhandari123/azure104-learning/blob/main/diagrams/ManageRDPandSSH.png)
 - [Administer Azure Resources](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html#lab-introduction)
+- [Implementing Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+- [Implementing Intersite Connectivity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
+- [Implementing Virtual Networking](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
+- [Filter network traffic with a network security group](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal)
+- [Implementing Network Traffic Management](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
+- [Load Balancer Lab](https://att-c.udemycdn.com/2023-03-12_13-35-05-b9bd010fb5a51919c27874d7dc011f55/original.pdf?response-content-disposition=attachment%3B+filename%3DLoad%2BBalancer%2Blab.pdf&Expires=1758514256&Signature=7G2ruByBvXeZV4HmVRPrvqkxefs5he3zXet3C2L1g11huIgCBCZXmcTkDyhhNZtV65QY6TOFu5-s0EbIns8oJSYb55nFGSM2Hz33dmU1VlYYdoNZ4ur2zgFI-3NDR657Wvncc6-jqwOcbklNwfkYxNc3en43dJFqWMlRTSIKF8xh7lF8xKZafoIqU8eQiKWclKK3G7lYZXJlbTsU4H3~LEfpTG6GqDkwHwoQYCtI~~G2T1MRR5cB3QaxOLoPlm3HPUmoz7kjr7DFjfPMKBJn~ePMiSfXA79u~5KvkuyoNHx3-3sXg4q~QYCMWYQzklITL1XRxj8bFyElSjvHEDOAyA__&Key-Pair-Id=K3MG148K9RIRF4)
+
 
 ## 🧠 Goals
 
